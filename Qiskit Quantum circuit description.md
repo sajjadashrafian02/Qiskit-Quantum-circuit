@@ -22,7 +22,7 @@ Before you dive in, make sure you’ve got the following:
 ## Getting Started  
 1. Clone this repository to your computer:  
    bash  
-   git clone https://github.com/gholinasabmaryam/Qiskit-Quantum-circuit.git  
+   git clone https://github.com/sajjadashrafian02/Qiskit-Quantum-circuit 
    cd Qiskit-Quantum-circuit
    
 2. Install the dependencies:
