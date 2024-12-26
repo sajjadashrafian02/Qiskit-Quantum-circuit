@@ -11,7 +11,7 @@ Using Qiskit, an open-source framework for quantum computing, I’ve put togethe
 - Get insights into how quantum computers process these circuits.  
 
 ## What’s Inside?  
-- `Qislit_IBM.ipynb```: A Jupyter Notebook that walks you through the whole process—from creating circuits to optimizing them for IBM's quantum hardware.  
+- ```Qislit_IBM.ipynb```: A Jupyter Notebook that walks you through the whole process—from creating circuits to optimizing them for IBM's quantum hardware.  
 
 ## What You’ll Need  
 Before you dive in, make sure you’ve got the following:  
