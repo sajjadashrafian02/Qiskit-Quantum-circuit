@@ -16,7 +16,7 @@ Using Qiskit, an open-source framework for quantum computing, I’ve put togethe
 ## What You’ll Need
 Before you dive in, make sure you’ve got the following:
 - Python 3.7 or higher
-- Qiskitit (install it using **pip install qiskit**
+- Qiskitit (install it using **pip install qiskit**)
 - Jupyter Notebookok (install it using **pip install notebook**)
 
 ## Getting Started
