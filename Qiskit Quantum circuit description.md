@@ -36,4 +36,5 @@ This project is in the public domain under The Unlicense. Feel free to use it ho
 I’d love to hear from you! Whether you have suggestions, find an issue, or just want to chat about quantum computing, feel free to reach out:
 
 GitHub: https://github.com/sajjadashrafian02
+linkedin: https://www.linkedin.com/in/sajjadashrafian/
 Thanks for stopping by, and happy coding!
