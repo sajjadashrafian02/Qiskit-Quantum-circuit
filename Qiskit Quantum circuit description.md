@@ -21,7 +21,7 @@ Before you dive in, make sure you’ve got the following:
 
 ## Getting Started  
 1. Clone this repository to your computer:  
-   bash  
+   ``` bash  
    git clone https://github.com/sajjadashrafian02/Qiskit-Quantum-circuit 
    cd Qiskit-Quantum-circuit
    
